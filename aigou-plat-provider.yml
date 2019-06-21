@@ -7,7 +7,7 @@ spring:
 spring:
   profiles: dev
   application:
-    name: AIGOU_CONSUMER
+    name: AIGOU_xielinjiang
 eureka:
   client:
     serviceUrl:
